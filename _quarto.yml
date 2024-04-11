@@ -3,11 +3,12 @@ project:
   output-dir: docs
   
 website: 
-  title: "STAT 515 - Website"
+  title: "STAT 515 - Final Project : Template"
   navbar: 
     left: 
       - index.qmd
-      - Introduction.qmd
+      - codes.qmd
+      - ref.qmd
       
 format: 
   html: 
